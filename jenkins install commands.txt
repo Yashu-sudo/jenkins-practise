@@ -11,3 +11,4 @@ systemctl status jenkins
 
 editing thhis
 adding webhook
+poll scm est
