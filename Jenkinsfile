@@ -24,7 +24,7 @@ pipeline {
             }
             stage('docker cony'){
                 steps {
-                    sh 'docker run -td --name cont2 -p 56565:80 yashu565656/indexpage:new1'
+                    sh 'docker run -td --name cont2 -p 1212:80 yashu565656/indexpage:new1'
                 }
             }
         }
