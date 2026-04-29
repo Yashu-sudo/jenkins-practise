@@ -18,7 +18,7 @@ This project demonstrates a simple CI/CD pipeline using Jenkins and Docker.
 
 ## 🌐 Output
 Application runs on:
-http://<server-ip>:and the port your host exposed in my case its 56565
+http://<server-ip>:and the port your host exposed in my case its 1212
 
 ## 🧠 Key Learnings
 - Jenkins Declarative Pipeline
